@@ -4,7 +4,7 @@ const petButton = document.getElementById('petButton');
 const rockImage = document.getElementById('rockImage');
 const rockStatus = document.getElementById('rockStatus');
 
-let rockState = 'Content'; // Initial rock state
+let rockState = 'Content'; // Initial rock statee
 
 function updateRockStatus(newState) {
   rockState = newState;
