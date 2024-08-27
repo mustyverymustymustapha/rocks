@@ -1,0 +1,1 @@
+the pet rock is a nice guy! take care of him. anyway, use this if you are lonely and longing a pet. I AM NOT RESPONSIBLE AS A RESULT OF YOUR ADVERSE ACTIONS. made by me![17A910D1-E38B-4CD5-A7FE-C852B12BD3FB](https://github.com/user-attachments/assets/c9c444fc-99f8-4ff8-bc95-e67684a1e146)
